@@ -1,7 +1,7 @@
-// path coming into this file root/api/thoughts
+// path going into root/api/thoughts
 const router = require("express").Router();
 
-// path coming into this file root/api/users
+// path going into root/api/users
 const {
   getAllThoughts,
   getThoughtById,
@@ -15,7 +15,7 @@ const {
 // /api/thoughts/
 router.route("/").get(getAllThoughts).post(addThought);
 
-// /api/thoughts/:id where id is the thought id
+// /api/thoughts/:id is the thought id
 router
   .route("/:id")
   .get(getThoughtById)

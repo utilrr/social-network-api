@@ -1,6 +1,6 @@
 const router = require("express").Router();
 
-// path coming into this file root/api/users
+// path going into root/api/users
 const {
   getAllUsers,
   getUserById,
