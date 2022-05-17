@@ -10,15 +10,19 @@ The goal here was to build an API for a social network web application where use
 4. When I test API POST and DELETE routes in Insomnia I can create and delete reactions to thoughts and add or remove friends to a user’s friend list.
 
 ## Technologies Used
-Express.s, MongoDB, Mongoose ODM, JavaScript
+Express.s, MongoDB, Mongoose ODM, JavaScript, Node.js.
 
 ## Challenges Faced
 Time management, getting behind and trying to make up lost ground quickly, has been my biggest challenge in the boot camp. Therefore this task is incomplete. Also, trouble shooting my routes. It seems they don't work exactly as I planned. 
 
+## Installation
+This is an application that runs in the back end, or by only using the API endpoints. Run the command `npm i` to install the app. Start the app by running `npm start`.
+
 ## Deployed Website link
+https://youtu.be/SpOhVLwYeCw
 
 ## My Repo link
-
+https://github.com/utilrr/social-network-api
 
 
 ### Contribution
