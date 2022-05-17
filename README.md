@@ -13,7 +13,7 @@ The goal here was to build an API for a social network web application where use
 Express.s, MongoDB, Mongoose ODM, JavaScript
 
 ## Challenges Faced
-Time management, getting behind and trying to make up lost ground quickly, has been my biggest challenge in the Therefore this task is incomplete. Also, trouble shooting my routes. It seems they don't work exactly as I planned. 
+Time management, getting behind and trying to make up lost ground quickly, has been my biggest challenge in the boot camp. Therefore this task is incomplete. Also, trouble shooting my routes. It seems they don't work exactly as I planned. 
 
 ## Deployed Website link
 
