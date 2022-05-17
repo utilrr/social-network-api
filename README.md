@@ -1,23 +1,13 @@
 # social-network-api
 
 ## Description of Project
-o build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. 
-I WANT an API for my social network that uses a NoSQL database
-SO THAT my website can handle large amounts of unstructured data
+The goal here was to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list using a NoSQL database allowing the app can handle large amounts of unstructured data.
 
 ## Aims/Goals
-1.
-2.
-3.
-GIVEN a social network API
-WHEN I enter the command to invoke the application
-THEN my server is started and the Mongoose models are synced to the MongoDB database
-WHEN I open API GET routes in Insomnia for users and thoughts
-THEN the data for each of these routes is displayed in a formatted JSON
-WHEN I test API POST, PUT, and DELETE routes in Insomnia
-THEN I am able to successfully create, update, and delete users and thoughts in my database
-WHEN I test API POST and DELETE routes in Insomnia
-THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
+1. Given a social network API when I enter the command to invoke the application my server is started and the Mongoose models are synced to the MongoDB database.
+2. When I open API GET routes in Insomnia for users and thoughts the data for each of these routes is displayed in a formatted JSON.
+3. When I test API POST, PUT, and DELETE routes in Insomnia I can successfully create, update, and delete users and thoughts in my database.
+4. When I test API POST and DELETE routes in Insomnia I can create and delete reactions to thoughts and add or remove friends to a user’s friend list.
 
 ## Technologies Used
 Express.s, MongoDB, Mongoose ODM, JavaScript
@@ -28,8 +18,6 @@ Time management, getting behind and trying to make up lost ground quickly, has b
 ## Deployed Website link
 
 ## My Repo link
-
-## Screenshots w/ Captions
 
 
 
